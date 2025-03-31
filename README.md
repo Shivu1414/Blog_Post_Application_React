@@ -2,4 +2,4 @@
 Softmind infotech pvt ltd
 
 <b> Project Link : <b><br>
-https://blog-post-application-3747c.firebaseapp.com/custom
+https://blog-post-application-3747c.firebaseapp.com/
